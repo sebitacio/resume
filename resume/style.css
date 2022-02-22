@@ -51,6 +51,11 @@ hr {
     height: 1px;
 }
 
+br {
+    display: block;
+    margin: 1em 0;
+ }
+
 img {
     height: 150px;
     margin: auto;
